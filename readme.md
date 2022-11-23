@@ -2,7 +2,7 @@
 
 ## Basic Commands Git
 
-git fetch
-git merge
-git branch
-git stash
+- git fetch
+- git merge
+- git branch
+- git stash
